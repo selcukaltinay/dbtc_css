@@ -9,6 +9,9 @@ css lecture examples
 - 13.01.2022
 
 # Day 14
-> I'm here https://www.w3schools.com/css/css_font.asp
+> I'm was https://www.w3schools.com/css/css_font.asp
 - 14.01.2022
 
+# Day 15
+> I'm here https://www.w3schools.com/css/css_max-width.asp
+- 15.01.2022
