@@ -17,5 +17,9 @@ css lecture examples
 - 15.01.2022
 
 # Day 16
-> I'm here https://www.w3schools.com/css/css_combinators.asp
+> I was here https://www.w3schools.com/css/css_combinators.asp
 - 16.01.2022 
+
+# Day 17
+> I'm here https://www.w3schools.com/css/css_navbar.asp
+- 17.01.2022
