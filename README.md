@@ -21,5 +21,9 @@ css lecture examples
 - 16.01.2022 
 
 # Day 17
-> I'm here https://www.w3schools.com/css/css_navbar.asp
+> I was here https://www.w3schools.com/css/css_navbar.asp
 - 17.01.2022
+
+# Day 18
+> I'm here https://www.w3schools.com/css/css_image_sprites.asp
+- 18.01.2022
