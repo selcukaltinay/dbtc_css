@@ -25,5 +25,9 @@ css lecture examples
 - 17.01.2022
 
 # Day 18
-> I'm here https://www.w3schools.com/css/css_image_sprites.asp
+> I was here https://www.w3schools.com/css/css_image_sprites.asp
 - 18.01.2022
+
+# Day 19
+> I'm here https://www.w3schools.com/css/css3_backgrounds.asp 
+- 19.01.2022
