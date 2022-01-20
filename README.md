@@ -29,5 +29,9 @@ css lecture examples
 - 18.01.2022
 
 # Day 19
-> I'm here https://www.w3schools.com/css/css3_backgrounds.asp 
+> I was here https://www.w3schools.com/css/css3_backgrounds.asp 
 - 19.01.2022
+
+# Day 20
+> I'm here https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation1
+- 20.01.2022
