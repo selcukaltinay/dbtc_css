@@ -33,5 +33,9 @@ css lecture examples
 - 19.01.2022
 
 # Day 20
-> I'm here https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation1
+> I was here https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation1
 - 20.01.2022
+
+# Day 21
+> I'm here https://www.w3schools.com/css/css_grid.asp
+- 21.01.2022
